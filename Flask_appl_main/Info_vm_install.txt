@@ -1,0 +1,11 @@
+git clone https://github.com/rakeshraghavendrad/flask_new_v2_1.git
+
+apt install python3-flask
+
+apt install python3-pip
+
+pip install pandas
+pip install joblib
+pip install scikit-learn
+
+FLASK_APP=app.py flask run --host=0.0.0.0
